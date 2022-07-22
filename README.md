@@ -1,3 +1,11 @@
+#Please read before cloning!
+
+You must have a Riot Games developer account and API key to use this application.
+
+If your API key expires, click on the in-built "refresh API" button to regenerate a new API key. 
+
+Input any summoner name within the EU West server of Riot Games League of Legends and you will receive the 5 most recently played games of the player you searched. Use it on yourself and your friends. Each accordian drop down menu shows all the important stats of the 5 recently played games of the player you searched including KDA, damage dealt, champion played etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,9 +77,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-You must have a Riot Games developer account and API key to use this application.
 
-If your API key expires, click on the in-built "refresh API" button to regenerate a new API key. 
-
-Input any summoner name within the EU West server of Riot Games League of Legends and you will receive the 5 most recently played games of the player you searched. Use it on yourself and your friends. Each accordian drop down menu shows 8 important statistics of the 5 recently played games of the player you searched including KDA, damage dealt, champion played etc.
 
