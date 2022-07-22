@@ -1,4 +1,4 @@
-#Please read before cloning!
+# Please read before cloning!
 
 You must have a Riot Games developer account and API key to use this application.
 
